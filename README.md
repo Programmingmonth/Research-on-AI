@@ -7,7 +7,7 @@ This is a study about AI.
 - This research talks about deep learning.
 - This research talks about Data Science.
 
-### 🦄 Made by: [Programmingmonth](https://github.com/Programmingmonth)
+# 🦄 Made by: [Programmingmonth](https://github.com/Programmingmonth)
 
 # ✔️ TODO:
 - [x] Completed.
